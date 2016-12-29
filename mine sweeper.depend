@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1482959125 source:c:\users\first\desktop\mine sweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+	"print_functions.h"
+	"scan_functions.h"
+	"main_menu_functions.h"
+	"file_functions.h"
+	"game_loop_functions.h"
+	"startup_functions.h"
+	"time_functions.h"
+
+1482806109 c:\users\first\desktop\mine sweeper\print_functions.h
+
+1482959754 c:\users\first\desktop\mine sweeper\scan_functions.h
+
+1482958913 c:\users\first\desktop\mine sweeper\main_menu_functions.h
+
+1482961781 c:\users\first\desktop\mine sweeper\file_functions.h
+
+1482960029 c:\users\first\desktop\mine sweeper\game_loop_functions.h
+
+1482798962 c:\users\first\desktop\mine sweeper\startup_functions.h
+
+1482895004 c:\users\first\desktop\mine sweeper\time_functions.h
+
+1482959125 source:c:\users\first\desktop\mine sweeper - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+	"print_functions.h"
+	"scan_functions.h"
+	"main_menu_functions.h"
+	"file_functions.h"
+	"game_loop_functions.h"
+	"startup_functions.h"
+	"time_functions.h"
+
+1482806109 c:\users\first\desktop\mine sweeper - copy\print_functions.h
+
+1482959754 c:\users\first\desktop\mine sweeper - copy\scan_functions.h
+
+1482958913 c:\users\first\desktop\mine sweeper - copy\main_menu_functions.h
+
+1482999912 c:\users\first\desktop\mine sweeper - copy\file_functions.h
+
+1482960029 c:\users\first\desktop\mine sweeper - copy\game_loop_functions.h
+
+1482798962 c:\users\first\desktop\mine sweeper - copy\startup_functions.h
+
+1482895004 c:\users\first\desktop\mine sweeper - copy\time_functions.h
+
+1482959125 source:c:\users\first\desktop\mine sweeper - copy - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+	"print_functions.h"
+	"scan_functions.h"
+	"main_menu_functions.h"
+	"file_functions.h"
+	"game_loop_functions.h"
+	"startup_functions.h"
+	"time_functions.h"
+
+1482806109 c:\users\first\desktop\mine sweeper - copy - copy\print_functions.h
+
+1482959754 c:\users\first\desktop\mine sweeper - copy - copy\scan_functions.h
+
+1482958913 c:\users\first\desktop\mine sweeper - copy - copy\main_menu_functions.h
+
+1483002822 c:\users\first\desktop\mine sweeper - copy - copy\file_functions.h
+
+1483000959 c:\users\first\desktop\mine sweeper - copy - copy\game_loop_functions.h
+
+1482798962 c:\users\first\desktop\mine sweeper - copy - copy\startup_functions.h
+
+1482895004 c:\users\first\desktop\mine sweeper - copy - copy\time_functions.h
+
